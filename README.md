@@ -93,16 +93,12 @@ Contains image files.
 
 https://www.seekpng.com/idown/u2w7u2t4i1y3a9y3_call-of-duty-guns-firearms-gun-weapons-coat/
 
-## Contributing
-
-
 ## Related
 
 *[The Maze](https://alx-intranet.hbtn.io/concepts/133)* - Holberton Project Page
 
 ## License
 **BSD**
-
 
 # Author
 
